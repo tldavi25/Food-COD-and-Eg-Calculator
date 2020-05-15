@@ -12,13 +12,15 @@ These instructions explain how to use both the Food COD and Eg Calculator Macro 
 
 2. Enable macro content within the calculator workbook. 
 
-3. Go to the [USDA FoodData Central](https://fdc.nal.usda.gov/index.html) database website.
+3. Make sure objects libraries within VBA are available. Directions on how to check if the libraries are available are within the "Get Object Library Directions.pdf" file. 
 
-4. Search for desired food item and copy the "FDC ID" number.
+4. Go to the [USDA FoodData Central](https://fdc.nal.usda.gov/index.html) database website.
 
-5. Paste "FDC ID" number within the blue box on the "directions" tab within the calculator workbook.
+5. Search for desired food item and copy the "FDC ID" number.
 
-6. Click the "RUN CALCULATOR" button. Results appear in the "results" tab for total COD and Eg calculations. An additional table for the carbohydrate, protein, and fat COD and Eg calculations are also available. 
+6. Paste "FDC ID" number within the blue box on the "directions" tab within the calculator workbook.
+
+7. Click the "RUN CALCULATOR" button. Results appear in the "results" tab for total COD and Eg calculations. An additional table for the carbohydrate, protein, and fat COD and Eg calculations are also available. 
 
 ### How to use the python code for lists of food items
 
